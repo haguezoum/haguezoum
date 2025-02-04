@@ -4,7 +4,7 @@
 <img align='center' src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png" width="100%">
 <p align='left'>
 <em>
-    Software Devloper Student at
+    Software Developer Student at
     <a href="http://www.1337.ma">1337</a> passionate about web development and open source.
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF0bGYzOGozaXJ2ZWV3MGptMWhrcnRlZ3p4OHlkZG1qMm5wMmM3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/UWHlRCoESGEjjchFij/giphy.gif" width="30">
 </em>
