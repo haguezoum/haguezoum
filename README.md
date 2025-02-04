@@ -25,7 +25,7 @@
 </a>
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBzNXBjamFybDh1NXBteTJ0N2V1bGFmaWh4Y255NWF1dnFvdHEzNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RRi3GncwtYHTSYODaf/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const Hassan = {
