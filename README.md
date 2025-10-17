@@ -1,7 +1,7 @@
 <h1> Hi, I'm Hassan Aguezoum! 
 <img src="https://d604h6pkko9r0.cloudfront.net/wp-content/uploads/2025/07/04142143/Decision-making-3.webp" width="60" >
 </h1>
-<img align='center' src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png" width="100%">
+<img align='center' src="https://d604h6pkko9r0.cloudfront.net/wp-content/uploads/2025/07/04142143/Decision-making-3.webp" width="100%">
 <p align='left'>
 <em>
     Software Developer Student at
