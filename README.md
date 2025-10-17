@@ -1,5 +1,5 @@
 <h1> Hi, I'm Hassan Aguezoum! 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwZXk4OXUwemwzM2RzdTYxeHRyc2Nya3BhbmJ4cnBtYmRtMzZkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="60" >
+<img src="https://d604h6pkko9r0.cloudfront.net/wp-content/uploads/2025/07/04142143/Decision-making-3.webp" width="60" >
 </h1>
 <img align='center' src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png" width="100%">
 <p align='left'>
