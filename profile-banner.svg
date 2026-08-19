@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hassan Aguezoum profile banner</title>
+  <desc id="desc">A black and white editorial banner with subtle grid lines and frontend engineering text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030303"/>
+      <stop offset="0.55" stop-color="#0b0b0b"/>
+      <stop offset="1" stop-color="#1b1b1b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="18" fill="url(#grid)"/>
+  <path d="M44 44H1156M44 376H1156" stroke="url(#line)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="82" fill="#8a8a8a" font-size="12" letter-spacing="4">51°33′N  /  SOFTWARE ENGINEER</text>
+    <text x="56" y="203" fill="#ffffff" font-size="64" font-weight="700" letter-spacing="-2">HASSAN</text>
+    <text x="56" y="270" fill="#ffffff" font-size="64" font-weight="700" letter-spacing="-2">AGUEZOUM</text>
+    <text x="60" y="316" fill="#a0a0a0" font-size="17" letter-spacing="1.4">FRONTEND ENGINEER · REACT · NEXT.JS · TYPESCRIPT</text>
+  </g>
+
+  <g transform="translate(795 95)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect width="330" height="226" rx="10" fill="#070707" stroke="#ffffff" stroke-opacity="0.14"/>
+    <circle cx="22" cy="22" r="4" fill="#ffffff" fill-opacity="0.85"/>
+    <circle cx="38" cy="22" r="4" fill="#ffffff" fill-opacity="0.38"/>
+    <circle cx="54" cy="22" r="4" fill="#ffffff" fill-opacity="0.16"/>
+    <path d="M0 43H330" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="22" y="78" fill="#707070" font-size="13">01  const craft = {</text>
+    <text x="42" y="105" fill="#eeeeee" font-size="13">interface: "calm",</text>
+    <text x="42" y="132" fill="#b2b2b2" font-size="13">systems: "clear",</text>
+    <text x="42" y="159" fill="#8b8b8b" font-size="13">details: "intentional"</text>
+    <text x="22" y="186" fill="#707070" font-size="13">05  };</text>
+  </g>
+
+  <g transform="translate(1100 354)" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.8">
+    <circle cx="0" cy="0" r="20"/>
+    <path d="M0-19V18M-17 11L0-1L17 11"/>
+  </g>
+</svg>
+
