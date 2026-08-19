@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Code and peace</title>
+  <desc id="desc">A monochrome terminal-style code fragment beside a line-art olive branch and peace symbol.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.52" stop-color="#121212"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+  <path d="M32 32H1168M32 228H1168" stroke="url(#fade)"/>
+
+  <g transform="translate(68 66)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+    <text y="0" fill="#5f5f5f">// build slowly. think clearly.</text>
+    <text y="38" fill="#f1f1f1">while (alive) {</text>
+    <text x="28" y="76" fill="#bbbbbb">create(); learn(); beKind();</text>
+    <text y="114" fill="#f1f1f1">}</text>
+  </g>
+
+  <g transform="translate(905 130)" fill="none" stroke="#d8d8d8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="0" r="45"/>
+    <path d="M0-44V42M-38 26L0-2L38 26"/>
+    <path d="M-98 58C-63 23-39 13-6 2" opacity="0.58"/>
+    <path d="M-82 41C-92 23-77 18-66 24C-55 30-63 39-82 41Z" opacity="0.58"/>
+    <path d="M-55 22C-64 3-47-1-37 7C-27 15-37 23-55 22Z" opacity="0.58"/>
+    <path d="M-104 61C-117 48-105 38-93 42C-80 46-87 58-104 61Z" opacity="0.58"/>
+  </g>
+
+  <text x="1128" y="208" text-anchor="end" fill="#606060" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">CODE / PEACE / CRAFT</text>
+</svg>
