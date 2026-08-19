@@ -45,7 +45,7 @@ I like meeting curious people, trading ideas, and building thoughtful things tog
 
 <p>
   <a href="https://www.linkedin.com/in/hassan-aguezoum/"><img src="https://img.shields.io/badge/LinkedIn-Hassan_Aguezoum-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/hassan_aguezoum"><img src="https://img.shields.io/badge/X-@hassan__aguezoum-111111?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://x.com/hassan_aguezoum"><img src="https://img.shields.io/badge/X-@hassan__aguezoum-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/haguezoum"><img src="https://img.shields.io/badge/GitHub-@haguezoum-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=haguezoum&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
